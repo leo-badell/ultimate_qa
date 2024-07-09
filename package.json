@@ -1,0 +1,11 @@
+{
+  "name": "ultimate_qa",
+  "version": "1.0.0",
+  "description": "Testing the Ultimate QA",
+  "main": "index.js",
+  "author": "Leonardo Badell",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.13.0"
+  }
+}
